@@ -1,0 +1,21 @@
+
+#add-button {
+    background-color: violet;
+}
+
+select {
+    width: 12rem;
+    text-align: center
+}
+
+#time {
+    font-size: 2rem;
+}
+
+#add
+{
+
+    margin: 1rem;
+    align-items: center;
+}
+
